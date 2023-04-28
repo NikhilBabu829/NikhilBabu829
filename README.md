@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @NikhilBabu829
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... nikhilbabu829@gmail.com
-
-<!---
-NikhilBabu829/NikhilBabu829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! I'm a beginner web developer with a passion for creating beautiful and functional websites. I am constantly learning and improving my skills, and I'm excited to share my projects with the world on Github. I believe in the power of collaboration and open-source development, and I'm always looking for new opportunities to work with others and contribute to the community. Thank you for taking the time to check out my profile!
+you can reach me through this mail ID : nikhilbabu829@gmail.com
