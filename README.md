@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Babu</h1>
 - 🔭 I’m currently working on **Odin Project**
 
-- 🌱 I’m currently learning **Webpack, Node JS, NPM**
+- 🌱 I’m currently learning **Node JS, NPM, Express**
 
-- 🤝 I’m looking for help with **Node JS**
+- 🤝 Curious and looking forward for any help with **Node JS, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilBabu829?tab=repositories](https://github.com/NikhilBabu829?tab=repositories)
 
