@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Babu</h1>
-- 🔭 I’m currently working on **Odin Project**
+- 🔭 I’m currently working on **Shift-Sync**
 
-- 🌱 I’m currently learning **Node JS, NPM, Express**
+- 🌱 I’m currently learning **Android Studio**
 
 - 🤝 Curious and looking forward for any help with **Node JS, Express**
 
