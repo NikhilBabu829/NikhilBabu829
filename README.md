@@ -4,9 +4,9 @@
  Lives in: github.com/NikhilBabu829/NikhilBabu829/README.md
 
  TO DO BEFORE COMMITTING:
-  1. Confirm the Shift-Sync repo name/casing (line is marked below)
-  2. Add or delete the LinkedIn / portfolio badge
-  3. Update the "currently learning" line whenever it changes
+  1. Delete any AI/ML badge you haven't actually used — see note below
+  2. Fill in or remove the LinkedIn badge
+  3. Replace the placeholder rows in the Projects table
 =====================================================================
 -->
 
@@ -14,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Nikhil%20Gunti&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2DD4BF&center=true&vCenter=true&width=520&lines=CS+student+%7C+Hyderabad;Web+development+with+the+MERN+stack;Currently+building+Shift-Sync" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2DD4BF&center=true&vCenter=true&width=560&lines=CS+student+%7C+Hyderabad;Moving+into+AI+%2F+ML+engineering;Building+with+LLMs+and+Python;Still+shipping+web+projects+on+the+side" alt="typing" />
 
 <br />
 
@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 [![Repositories](https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilBabu829?tab=repositories)
 
-<img src="https://komarev.com/ghpvc/?username=NikhilBabu829&label=Profile%20views&color=2dd4bf&style=flat-square" alt="views" />
+![Followers](https://img.shields.io/github/followers/NikhilBabu829?style=flat-square&logo=github&label=Followers&labelColor=161b22&color=2dd4bf)
 
 </div>
 
@@ -30,13 +30,17 @@
 
 ### About
 
-Computer science student in Hyderabad, learning by building. Most of what's here
-is me working through an idea until it runs — small games, tools, and full-stack
-experiments rather than polished products.
+Computer science student in Hyderabad, currently shifting my focus toward **AI and
+machine learning engineering**. I came in through web development — MERN stack,
+a handful of small games and tools — and I'm now working through the maths and
+the tooling that sit underneath modern ML systems.
 
-- 🔭 Building **[Shift-Sync](https://github.com/NikhilBabu829/Shift-Sync)** — shift scheduling, MERN stack <!-- verify repo name -->
-- 🌱 Picking up **Android development** with Android Studio
-- 🤝 Keen to collaborate on anything **Node.js / Express**
+I learn by building. Most repos here are me taking an idea apart until it runs.
+
+- 🧠 Working through **neural networks and the PyTorch ecosystem**
+- 🔨 Building **small LLM-powered tools** to understand retrieval and prompting properly
+- 📚 Currently reading up on **transformers, embeddings, and vector search**
+- 🤝 Open to collaborating on **anything ML or Python**
 - 📫 Reach me at **nikhilbabu829@gmail.com**
 
 ---
@@ -45,7 +49,26 @@ experiments rather than polished products.
 
 <div align="center">
 
-**Languages**
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Languages & Web**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,59 +76,39 @@ experiments rather than polished products.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-### Stats
+### Projects
 
-<div align="center">
+<!-- Swap these rows out as you build. The badges are live and update themselves. -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NikhilBabu829&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&title_color=2dd4bf&icon_color=2dd4bf" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBabu829&layout=compact&hide_border=true&theme=github_dark&langs_count=8&title_color=2dd4bf" alt="languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=NikhilBabu829&hide_border=true&theme=github-dark&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf" alt="streak" />
-
-</div>
+| Project | What it is | Built with | |
+|---|---|---|---|
+| **[Shift-Sync](https://github.com/NikhilBabu829/Shift-Sync)** | Shift scheduling app | MERN | ![Stars](https://img.shields.io/github/stars/NikhilBabu829/Shift-Sync?style=flat-square&labelColor=161b22&color=2dd4bf) |
+| **[Abstract](https://github.com/NikhilBabu829/Abstract)** | Responsive landing page build | HTML · CSS | ![Stars](https://img.shields.io/github/stars/NikhilBabu829/Abstract?style=flat-square&labelColor=161b22&color=2dd4bf) |
+| **[EtchASketch](https://github.com/NikhilBabu829/EtchASketch)** | Grid drawing toy, DOM-driven | JavaScript | ![Stars](https://img.shields.io/github/stars/NikhilBabu829/EtchASketch?style=flat-square&labelColor=161b22&color=2dd4bf) |
+| **[TickTackToe](https://github.com/NikhilBabu829/TickTackToe)** | Terminal game with win detection | C | ![Stars](https://img.shields.io/github/stars/NikhilBabu829/TickTackToe?style=flat-square&labelColor=161b22&color=2dd4bf) |
+| **[RockPaperScissor](https://github.com/NikhilBabu829/RockPaperScissor)** | Browser game, first JS project | JavaScript | ![Stars](https://img.shields.io/github/stars/NikhilBabu829/RockPaperScissor?style=flat-square&labelColor=161b22&color=2dd4bf) |
 
 ---
 
-### Selected Projects
+### Currently Learning
 
-<div align="center">
-
-<a href="https://github.com/NikhilBabu829/Abstract">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilBabu829&repo=Abstract&hide_border=true&theme=github_dark&title_color=2dd4bf&icon_color=2dd4bf" alt="Abstract" />
-</a>
-<a href="https://github.com/NikhilBabu829/TickTackToe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilBabu829&repo=TickTackToe&hide_border=true&theme=github_dark&title_color=2dd4bf&icon_color=2dd4bf" alt="TickTackToe" />
-</a>
-<a href="https://github.com/NikhilBabu829/RockPaperScissor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilBabu829&repo=RockPaperScissor&hide_border=true&theme=github_dark&title_color=2dd4bf&icon_color=2dd4bf" alt="RockPaperScissor" />
-</a>
-<a href="https://github.com/NikhilBabu829/EtchASketch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikhilBabu829&repo=EtchASketch&hide_border=true&theme=github_dark&title_color=2dd4bf&icon_color=2dd4bf" alt="EtchASketch" />
-</a>
-
-</div>
+```
+Foundations  ██████████░░░░░░░░░░  linear algebra · calculus · probability
+PyTorch      ████████░░░░░░░░░░░░  tensors · autograd · training loops
+LLM tooling  ██████░░░░░░░░░░░░░░  embeddings · RAG · prompt design
+Deployment   ████░░░░░░░░░░░░░░░░  FastAPI · Docker · model serving
+```
 
 ---
 
